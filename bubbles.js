@@ -52,7 +52,7 @@ function Ball() {
 }
 
 var bal = [];
-for (var i=0; i<50; i++){
+for (var i=0; i<20; i++){
     bal.push(new Ball());
 }
 
